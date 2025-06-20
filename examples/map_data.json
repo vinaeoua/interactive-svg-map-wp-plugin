@@ -1,0 +1,47 @@
+[
+  {
+    "Name": "Boston",
+    "ID": "boston",
+    "Population": "685,094",
+    "Area": "89.6 sq mi",
+    "County": "Suffolk",
+    "Incorporated": "1630",
+    "Description": "Capital and largest city of Massachusetts"
+  },
+  {
+    "Name": "Plymouth",
+    "ID": "plymouth", 
+    "Population": "61,217",
+    "Area": "134.0 sq mi",
+    "County": "Plymouth",
+    "Incorporated": "1620",
+    "Description": "Historic town where the Pilgrims first landed"
+  },
+  {
+    "Name": "Salem",
+    "ID": "salem",
+    "Population": "44,480",
+    "Area": "18.1 sq mi", 
+    "County": "Essex",
+    "Incorporated": "1629",
+    "Description": "Famous for the Salem witch trials of 1692"
+  },
+  {
+    "Name": "Cambridge",
+    "ID": "cambridge",
+    "Population": "118,403",
+    "Area": "7.1 sq mi",
+    "County": "Middlesex", 
+    "Incorporated": "1630",
+    "Description": "Home to Harvard University and MIT"
+  },
+  {
+    "Name": "Concord",
+    "ID": "concord",
+    "Population": "18,491",
+    "Area": "25.9 sq mi",
+    "County": "Middlesex",
+    "Incorporated": "1635", 
+    "Description": "Birthplace of the American Revolution"
+  }
+]
